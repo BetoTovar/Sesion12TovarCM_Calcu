@@ -1,0 +1,2 @@
+rootProject.name = "Sesion12TovarCM_Calcu"
+include ':app'
